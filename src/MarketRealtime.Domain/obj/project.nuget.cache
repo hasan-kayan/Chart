@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BLX7HSAdaYE=",
+  "success": true,
+  "projectFilePath": "/Users/hasankayan/Desktop/wall_street/src/MarketRealtime.Domain/MarketRealtime.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/hasankayan/.nuget/packages/microsoft.netcore.app.ref/9.0.9/microsoft.netcore.app.ref.9.0.9.nupkg.sha512",
+    "/Users/hasankayan/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
